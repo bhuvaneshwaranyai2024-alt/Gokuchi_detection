@@ -1,1 +1,0 @@
-# Gokuchi_detection
